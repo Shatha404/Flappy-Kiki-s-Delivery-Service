@@ -38,3 +38,27 @@ What is better than playing with your friend? introducing multiplayer modes wher
 Implementing different weather conditions that affect Kiki's flying abilities, like other witches that want to hunt KiKi down.  
 
 Introducing a shouting ability that makes KiKi defend herself from other witches 
+
+# Technologies Used
+
+### Core Unity Features
+- Unity Engine:
+Provides the foundation for the game, including rendering, physics, and scripting.
+
+- Physics Engine:
+Unity's built-in physics (e.g., Rigidbody for the bird and pipes, Colliders for detecting collisions).
+
+- Input System:
+Handles user inputs, such as tapping or clicking to make the bird jump.
+
+- UI System:
+Used for creating in-game elements like score displays, start/restart buttons, and victory/game-over screens.
+
+- Audio System:
+Plays sound effects for jumps, collisions, and background music.
+
+### Programming Languages
+ - c#
+
+### Graphics
+2D Sprite Renderer:
