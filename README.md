@@ -5,4 +5,4 @@ Kiki's Delivery Service" is an endless runner-style game where the player contro
 
 ![image](https://github.com/user-attachments/assets/bc5540e3-d926-435c-a390-32a17efe692f)
 
-Demo : https://drive.google.com/file/d/1Xyyf_c0ppDhRIdhrZJzQJOWbUhOjWgXh/view?usp=drive_link
+Demo: https://drive.google.com/file/d/1Xyyf_c0ppDhRIdhrZJzQJOWbUhOjWgXh/view?usp=drive_link
