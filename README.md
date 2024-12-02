@@ -6,5 +6,18 @@ Kiki's Delivery Service" is an endless runner-style game where the player contro
 ![image](https://github.com/user-attachments/assets/bc5540e3-d926-435c-a390-32a17efe692f)
 
 Demo: https://drive.google.com/file/d/125MTmpHgKXjDjvthPS-FIt-oyTorCc5i/view?usp=drive_link
-** Audience **: 
-The target audience includes children, teenagers, and casual gamers
+
+
+### Audience : 
+The target audience includes children, teenagers, and casual gamers.
+
+### Game Genre 
+The game falls under the platform action and arcade genres.
+
+### Gameplay 
+
+- Challenges: 
+   The game challenges include avoiding mid-air obstacles. 
+
+- Actions: 
+   Players control Kiki by pressing a space button to move up and release it to
