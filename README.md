@@ -21,3 +21,20 @@ The game falls under the platform action and arcade genres.
 
 - Actions: 
    Players control Kiki by pressing a space button to move up and release it to
+  
+- Challenge Type: 
+   Physical coordination Challenges, where players must dodge obstacles, can also become economic Challenges due to the need to collect coins and buy skins.
+
+### Rewards 
+
+The player will receive a victory cup after they successfully pass 20 obstacles, and they can upgrade their skin using the coins they collected. 
+
+### Future Work 
+
+Adding speed boost ability.  
+
+What is better than playing with your friend? introducing multiplayer modes where players can race each other would add more entertainment for the player.  
+
+Implementing different weather conditions that affect Kiki's flying abilities, like other witches that want to hunt KiKi down.  
+
+Introducing a shouting ability that makes KiKi defend herself from other witches 
